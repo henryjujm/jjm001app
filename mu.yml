@@ -13,4 +13,4 @@ service:
     - /*
   pipeline:
     source:
-      repo:henryjujm/jjm001app
+      repo: henryjujm/jjm001app
